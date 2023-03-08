@@ -1,0 +1,54 @@
+2023-03-07 22:36:44,361  INFO [main] project1-15Oct-JavaBatch:41 - Browser is open.
+2023-03-07 22:36:44,498  INFO [main] project1-15Oct-JavaBatch:46 - Browser is maximized.
+2023-03-07 22:36:46,858  INFO [main] project1-15Oct-JavaBatch:50 - URL is open.
+2023-03-07 22:36:47,176  INFO [main] project1-15Oct-JavaBatch:55 - Screenshot is taken.
+2023-03-07 22:36:47,618  INFO [main] project1-15Oct-JavaBatch:63 - Username is entered.
+2023-03-07 22:36:47,754  INFO [main] project1-15Oct-JavaBatch:67 - Password is entered.
+2023-03-07 22:36:47,924  INFO [main] project1-15Oct-JavaBatch:71 - Clicked on login button.
+2023-03-07 22:36:47,939  INFO [main] project1-15Oct-JavaBatch:75 - Went on home page.
+2023-03-07 22:36:48,316  INFO [main] project1-15Oct-JavaBatch:80 - Screenshot is taken.
+2023-03-07 22:36:48,520  INFO [main] project1-15Oct-JavaBatch:17 - Clock on bag product
+2023-03-07 22:36:48,520  INFO [main] project1-15Oct-JavaBatch:19 - Apply the validation
+2023-03-07 22:36:49,340  INFO [main] project1-15Oct-JavaBatch:88 - Browser is closed.
+2023-03-07 22:36:49,342  INFO [main] project1-15Oct-JavaBatch:89 - End of program.
+2023-03-07 22:36:50,758  INFO [main] project1-15Oct-JavaBatch:41 - Browser is open.
+2023-03-07 22:36:50,887  INFO [main] project1-15Oct-JavaBatch:46 - Browser is maximized.
+2023-03-07 22:36:54,020  INFO [main] project1-15Oct-JavaBatch:50 - URL is open.
+2023-03-07 22:36:54,287  INFO [main] project1-15Oct-JavaBatch:55 - Screenshot is taken.
+2023-03-07 22:36:54,413  INFO [main] project1-15Oct-JavaBatch:63 - Username is entered.
+2023-03-07 22:36:54,517  INFO [main] project1-15Oct-JavaBatch:67 - Password is entered.
+2023-03-07 22:36:54,652  INFO [main] project1-15Oct-JavaBatch:71 - Clicked on login button.
+2023-03-07 22:36:54,653  INFO [main] project1-15Oct-JavaBatch:75 - Went on home page.
+2023-03-07 22:36:54,839  INFO [main] project1-15Oct-JavaBatch:80 - Screenshot is taken.
+2023-03-07 22:36:55,248  INFO [main] project1-15Oct-JavaBatch:17 - Click on all products
+2023-03-07 22:36:55,249  INFO [main] project1-15Oct-JavaBatch:19 - Apply the validation
+2023-03-07 22:36:55,581  INFO [main] project1-15Oct-JavaBatch:88 - Browser is closed.
+2023-03-07 22:36:55,582  INFO [main] project1-15Oct-JavaBatch:89 - End of program.
+2023-03-07 22:36:56,730  INFO [main] project1-15Oct-JavaBatch:41 - Browser is open.
+2023-03-07 22:36:56,856  INFO [main] project1-15Oct-JavaBatch:46 - Browser is maximized.
+2023-03-07 22:36:59,830  INFO [main] project1-15Oct-JavaBatch:50 - URL is open.
+2023-03-07 22:36:59,980  INFO [main] project1-15Oct-JavaBatch:55 - Screenshot is taken.
+2023-03-07 22:37:00,120  INFO [main] project1-15Oct-JavaBatch:63 - Username is entered.
+2023-03-07 22:37:00,252  INFO [main] project1-15Oct-JavaBatch:67 - Password is entered.
+2023-03-07 22:37:00,437  INFO [main] project1-15Oct-JavaBatch:71 - Clicked on login button.
+2023-03-07 22:37:00,438  INFO [main] project1-15Oct-JavaBatch:75 - Went on home page.
+2023-03-07 22:37:00,719  INFO [main] project1-15Oct-JavaBatch:80 - Screenshot is taken.
+2023-03-07 22:37:00,789  INFO [main] project1-15Oct-JavaBatch:20 - Click on menu button
+2023-03-07 22:37:00,950  INFO [main] project1-15Oct-JavaBatch:23 - Click on logout button
+2023-03-07 22:37:00,950  INFO [main] project1-15Oct-JavaBatch:25 - Went on login page
+2023-03-07 22:37:01,237  INFO [main] project1-15Oct-JavaBatch:29 - Screenshot is taken
+2023-03-07 22:37:01,238  INFO [main] project1-15Oct-JavaBatch:31 - Apply Verification
+2023-03-07 22:37:01,590  INFO [main] project1-15Oct-JavaBatch:88 - Browser is closed.
+2023-03-07 22:37:01,591  INFO [main] project1-15Oct-JavaBatch:89 - End of program.
+2023-03-07 22:37:02,991  INFO [main] project1-15Oct-JavaBatch:41 - Browser is open.
+2023-03-07 22:37:03,135  INFO [main] project1-15Oct-JavaBatch:46 - Browser is maximized.
+2023-03-07 22:37:06,290  INFO [main] project1-15Oct-JavaBatch:50 - URL is open.
+2023-03-07 22:37:06,528  INFO [main] project1-15Oct-JavaBatch:55 - Screenshot is taken.
+2023-03-07 22:37:06,688  INFO [main] project1-15Oct-JavaBatch:63 - Username is entered.
+2023-03-07 22:37:06,791  INFO [main] project1-15Oct-JavaBatch:67 - Password is entered.
+2023-03-07 22:37:06,924  INFO [main] project1-15Oct-JavaBatch:71 - Clicked on login button.
+2023-03-07 22:37:06,925  INFO [main] project1-15Oct-JavaBatch:75 - Went on home page.
+2023-03-07 22:37:07,127  INFO [main] project1-15Oct-JavaBatch:80 - Screenshot is taken.
+2023-03-07 22:37:07,130  INFO [main] project1-15Oct-JavaBatch:13 - Apply verification.
+2023-03-07 22:37:07,473  INFO [main] project1-15Oct-JavaBatch:88 - Browser is closed.
+2023-03-07 22:37:07,473  INFO [main] project1-15Oct-JavaBatch:89 - End of program.
